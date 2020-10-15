@@ -1,0 +1,7 @@
+{
+    "imports": {
+       "fmt/": "https://deno.land/std@0.55.0/fmt/",
+       "local/": "./src/libs/",
+       "lodash/camelCase": "https://deno.land/x/lodash/camelCase.js"
+    }
+ }
